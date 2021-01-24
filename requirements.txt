@@ -1,0 +1,6 @@
+tensorflow==1.14.0
+pillow
+lxml
+jupyter
+matplotlib
+opencv-python==4.2.0.34
